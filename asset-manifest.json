@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/useReducer-todo-react/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/useReducer-todo-react/static/js/main.4a336033.chunk.js",
+    "main.js.map": "/useReducer-todo-react/static/js/main.4a336033.chunk.js.map",
+    "runtime-main.js": "/useReducer-todo-react/static/js/runtime-main.e83edc71.js",
+    "runtime-main.js.map": "/useReducer-todo-react/static/js/runtime-main.e83edc71.js.map",
+    "static/js/2.699fc936.chunk.js": "/useReducer-todo-react/static/js/2.699fc936.chunk.js",
+    "static/js/2.699fc936.chunk.js.map": "/useReducer-todo-react/static/js/2.699fc936.chunk.js.map",
+    "static/js/3.339488dd.chunk.js": "/useReducer-todo-react/static/js/3.339488dd.chunk.js",
+    "static/js/3.339488dd.chunk.js.map": "/useReducer-todo-react/static/js/3.339488dd.chunk.js.map",
+    "index.html": "/useReducer-todo-react/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/useReducer-todo-react/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.699fc936.chunk.js.LICENSE.txt": "/useReducer-todo-react/static/js/2.699fc936.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e83edc71.js",
+    "static/js/2.699fc936.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.4a336033.chunk.js"
+  ]
+}
